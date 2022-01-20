@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome"
+date:   2022-01-20 10:15:33 -0300
+categories: jekyll update
+---
+My first post, just to start my blog/personal site. 
