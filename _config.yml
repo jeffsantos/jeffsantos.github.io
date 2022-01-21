@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Professor, researcher and enthusiast of computer and digital technologies. 
   An old school programmer (I started in the 90s with Pascal). 
   Dad of a couple, husband, and a bad guitar player.
+domain: jeffsantos.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jeffsantos.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 destination: ./docs
