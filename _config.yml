@@ -30,6 +30,8 @@ url: "https://jeffsantos.github.io/" # the base hostname & protocol for your sit
 twitter_username: jeff_b_santos
 github_username:  jeffsantos
 
+google_analytics: UA-26109148-1
+
 # Build settings
 theme: minima
 plugins:
