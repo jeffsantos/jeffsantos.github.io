@@ -36,15 +36,6 @@ google_analytics: G-D0Q14P3Y9E
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-responsive-image
-
-# Setting a block for Responsive Image
-responsive_image:
-  template: _includes/responsive-image.html
-  sizes:
-    - width: 320
-    - width: 480
-    - width: 800
 
 # Exclude from processing.
 # The following items will not be processed, by default.
